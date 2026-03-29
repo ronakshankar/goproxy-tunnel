@@ -42,7 +42,7 @@ To ensure that logging and compression do not block the network path, WireTunnel
 ## How to Run
 ```bash
 # Clone the repository
-git clone [https://github.com/your-username/wiretunnel.git](https://github.com/your-username/wiretunnel.git)
+git clone [https://github.com/ronakshankar/goproxy-tunnel.git](https://github.com/ronakshankar/goproxy-tunnel.git)
 
 # Build the binary
 go build -o wiretunnel main.go
